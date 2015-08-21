@@ -1,8 +1,16 @@
 # shcoffee [![](https://img.shields.io/npm/v/shcoffee.png)](https://www.npmjs.com/package/shcoffee)
-> Easily use CoffeeScript for global ShellJS scripts without .coffee extension.
 
+> Easily use CoffeeScript for global ShellJS scripts without .coffee extension.
  
 ## Install
+
+First make sure you have ShellJS installed globally:
+
+```
+npm install -g shelljs
+```
+
+Then install shcoffee:
 
 ```
 npm install -g shcoffee
