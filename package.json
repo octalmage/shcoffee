@@ -1,6 +1,6 @@
 {
   "name": "shcoffee",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Easily use CoffeeScript for global ShellJS scripts without .coffee extension.",
   "main": "shcoffee.js",
   "keywords": [
