@@ -21,5 +21,6 @@
 	{
 		"type": "git",
 		"url": "https://github.com/octalmage/shcoffee.git"
-	}
+	},
+    "homepage": "https://github.com/octalmage/shcoffee"
 }
